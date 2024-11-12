@@ -13,7 +13,7 @@
 המשחק מיועד למחשב.
 
 
-![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/Wok%20and%20Roll%20UI.png?raw=true)
+![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/photos/Wok%20and%20Roll%20UI.png?raw=true)
 ---
 
 
@@ -181,7 +181,7 @@
 
 קישור: https://store.steampowered.com/app/1938460/Masterchef_Chinese_Food_Edition/
 
-![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/Masterchef%20Chinese%20Food%20Edition.png?raw=true)
+![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/photos/Masterchef%20Chinese%20Food%20Edition.png?raw=true)
 
 למה המשחק שלנו טוב שונה/מקורי/מיוחד/טוב יותר:
 
@@ -199,7 +199,7 @@
 
 קישור: https://store.steampowered.com/app/3174530/Eastern_Cuisine_Tycoon/
 
-![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/Eastern%20Cuisine%20Tycoon.png?raw=true)
+![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/photos/Eastern%20Cuisine%20Tycoon.png?raw=true)
 
 למה המשחק שלנו טוב שונה/מקורי/מיוחד/טוב יותר:
 
@@ -218,7 +218,7 @@
 
 קישור: https://www.numuki.com/game/sue-s-cooking-game/
 
-![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/Sue's%20Cooking%20Game.png?raw=true)
+![](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/photos/Sue's%20Cooking%20Game.png?raw=true)
 
 למה המשחק שלנו טוב שונה/מקורי/מיוחד/טוב יותר:
 
