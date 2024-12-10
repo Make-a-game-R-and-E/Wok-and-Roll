@@ -4,7 +4,7 @@ public class BlenderScript : MonoBehaviour
 {
     private string[] correctOrder = { "Lemon", "Water", "Milk", "Coconut" };
 
-    [SerializeField] SpriteRenderer blenderSpriteRenderer; 
+    [SerializeField] SpriteRenderer blenderSpriteRenderer;
     [SerializeField] Sprite emptyBlenderSprite; // The blender sprite when it's empty
     [SerializeField] Sprite filledBlenderSprite; // The blender sprite when it's filled
     [SerializeField] Sprite overflowBlenderSprite; // The blender sprite when it's overflow
@@ -58,22 +58,22 @@ public class BlenderScript : MonoBehaviour
         switch (objectName)
         {
             case "Lemon":
-            Debug.Log("Lemon");
+                Debug.Log("Lemon");
                 lemonCount++;
                 Debug.Log(lemonCount);
                 break;
             case "Water":
-            Debug.Log("Water");
+                Debug.Log("Water");
                 waterCount++;
                 Debug.Log(waterCount);
                 break;
             case "Milk":
-            Debug.Log("Milk");
+                Debug.Log("Milk");
                 milkCount++;
                 Debug.Log(milkCount);
                 break;
             case "Coconut":
-            Debug.Log("Coconut");
+                Debug.Log("Coconut");
                 coconutCount++;
                 Debug.Log(coconutCount);
                 break;
