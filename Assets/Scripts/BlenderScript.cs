@@ -62,6 +62,7 @@ public class BlenderScript : MonoBehaviour
                 lemonCount++;
                 Debug.Log(lemonCount);
                 break;
+
             case "Water":
                 Debug.Log("Water");
                 waterCount++;
