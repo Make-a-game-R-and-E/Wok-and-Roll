@@ -1,4 +1,9 @@
 # wok-and-roll-demo 
+
+המשחק "סו-שף אסייתי" מזמין אתכם להתנסות בעולם המטבח האסייתי ולהיכנס לנעליו של סו-שף במסעדה יוקרתית. המטרה שלכם היא לעבור מסע קולינרי בו תתחילו מהכנת קינוחים פשוטים, תתקדמו למנות ראשונות ועיקריות מורכבות, עד שתסיימו משמרת מלאה של עבודה במטבח ללא טעויות.
+
+במהלך המשחק, תלמדו להשתמש במגוון כלי מטבח מתקדמים, לנהל את הזמן שלכם, לבחור רכיבים מתאימים ולהכין מנות באיכות גבוהה ובדיוק מרבי. כל שלב יאתגר אתכם להעלות את הרמה ולהפגין מיומנות במטבח, תוך שילוב של מהירות ודיוק. האם תצליחו לסיים את המשמרת המושלמת ולהפוך לשף המוביל של המסעדה?
+
 ## About the Game :
   
 Wok and Roll is a fun and challenging game where your ultimate goal is to prepare a perfect glass of lemonade! To succeed, you must carefully balance the ingredients and follow the rules to avoid disaster.
@@ -39,9 +44,21 @@ Good luck, and remember: perfection is the key to a refreshing success in Wok an
 
 
 
+[דף רכיבים](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/formal-elements.md)
+
+[Game](https://ronylevy1.itch.io/wok-and-roll-demo)
+
+
+---
+
+חברי הצוות:
+
+אליסף קופל
+
+רוני לוי
 
 
 
 
 
-*link to the game:* https://ronylevy1.itch.io/wok-and-roll-demo
+
