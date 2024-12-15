@@ -44,7 +44,7 @@ Good luck, and remember: perfection is the key to a refreshing success in Wok an
 
 
 
-[דף רכיבים](https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/formal-elements.md)
+[דף רכיבים]([https://github.com/Make-a-game-R-and-E/Wok-and-Roll/blob/main/formal-elements.md](https://github.com/Make-a-game-R-and-E/wok-and-roll-demo/blob/main/formal-elements.md))
 
 [Game](https://ronylevy1.itch.io/wok-and-roll-demo)
 
